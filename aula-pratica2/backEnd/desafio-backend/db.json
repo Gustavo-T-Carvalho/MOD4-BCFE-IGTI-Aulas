@@ -1,0 +1,164 @@
+{
+  "despesas": [
+    {
+      "id": 1,
+      "descricao": "Clube",
+      "categoria": "Lazer",
+      "valor": 76.71,
+      "mes": "2020-11",
+      "dia": "26"
+    },
+    {
+      "id": 2,
+      "descricao": "Padaria",
+      "categoria": "Alimentação",
+      "valor": 33.19,
+      "mes": "2021-06",
+      "dia": "14"
+    },
+    {
+      "id": 3,
+      "descricao": "Restaurante",
+      "categoria": "Alimentação",
+      "valor": 100.44,
+      "mes": "2021-04",
+      "dia": "03"
+    },
+    {
+      "id": 4,
+      "descricao": "Gasolina",
+      "categoria": "Transporte",
+      "valor": 201.13,
+      "mes": "2020-11",
+      "dia": "05"
+    },
+    {
+      "id": 5,
+      "descricao": "Padaria",
+      "categoria": "Alimentação",
+      "valor": 15.96,
+      "mes": "2020-07",
+      "dia": "05"
+    },
+    {
+      "id": 6,
+      "descricao": "Consulta médica",
+      "categoria": "Saúde",
+      "valor": 280.3,
+      "mes": "2021-05",
+      "dia": "01"
+    },
+    {
+      "id": 7,
+      "descricao": "Clube",
+      "categoria": "Lazer",
+      "valor": 120.19,
+      "mes": "2021-02",
+      "dia": "22"
+    },
+    {
+      "id": 8,
+      "descricao": "Restaurante",
+      "categoria": "Alimentação",
+      "valor": 21.39,
+      "mes": "2021-05",
+      "dia": "03"
+    },
+    {
+      "id": 9,
+      "descricao": "Academia",
+      "categoria": "Saúde",
+      "valor": 52.4,
+      "mes": "2020-06",
+      "dia": "13"
+    },
+    {
+      "id": 10,
+      "descricao": "Compra no IFood",
+      "categoria": "Alimentação",
+      "valor": 24.83,
+      "mes": "2020-09",
+      "dia": "27"
+    },
+    {
+      "id": 11,
+      "descricao": "Compra no shopping",
+      "categoria": "Lazer",
+      "valor": 215.84,
+      "mes": "2021-03",
+      "dia": "05"
+    },
+    {
+      "id": 12,
+      "descricao": "Gasolina",
+      "categoria": "Transporte",
+      "valor": 123.38,
+      "mes": "2021-05",
+      "dia": "23"
+    },
+    {
+      "id": 13,
+      "descricao": "Restaurante",
+      "categoria": "Alimentação",
+      "valor": 52.7,
+      "mes": "2021-03",
+      "dia": "24"
+    },
+    {
+      "id": 14,
+      "descricao": "Restaurante",
+      "categoria": "Alimentação",
+      "valor": 98.45,
+      "mes": "2020-07",
+      "dia": "12"
+    },
+    {
+      "id": 15,
+      "descricao": "Gasolina",
+      "categoria": "Transporte",
+      "valor": 76.55,
+      "mes": "2020-10",
+      "dia": "26"
+    },
+    {
+      "id": 16,
+      "descricao": "Padaria",
+      "categoria": "Alimentação",
+      "valor": 18.96,
+      "mes": "2020-12",
+      "dia": "09"
+    },
+    {
+      "id": 17,
+      "descricao": "Restaurante",
+      "categoria": "Alimentação",
+      "valor": 92.67,
+      "mes": "2020-09",
+      "dia": "24"
+    },
+    {
+      "id": 18,
+      "descricao": "Cinema",
+      "categoria": "Lazer",
+      "valor": 49.38,
+      "mes": "2020-08",
+      "dia": "03"
+    },
+    {
+      "id": 19,
+      "descricao": "Conta do buteco",
+      "categoria": "Lazer",
+      "valor": 98.11,
+      "mes": "2020-07",
+      "dia": "16"
+    },
+    {
+      "id": 20,
+      "descricao": "Padaria",
+      "categoria": "Alimentação",
+      "valor": 16.97,
+      "mes": "2021-06",
+      "dia": "14"
+    }
+  ]
+}
